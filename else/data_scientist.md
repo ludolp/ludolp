@@ -96,10 +96,8 @@ plt.show()
 ```
 
 
-    
-![png](output_3_0.png)
-    
 
+![qualifications](https://github.com/ludolp/ludolp/blob/main/else/img/qualifications.png?raw=true)
 
 
 ```python
